@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<h1 style="font-family: sans-serif;">Aras Bayır</h1>
+<head>
+    <h1 style="font-size: medium;font-style: italic;">Hakkımda</h1>
+    <p>Merhaba, ben Aras. Logistics operations manager olarak çalışmaktayım. Kariyerimi değiştirmek için patika+ dan ve coursera dan frontend devops
+        machine learning, data sience alannında eğitimler almaktayım.
+        <br>
+        Proje ödevinin alt kısmında kendime dair sevdiğim film, dizi ve kitaplar hakkında bilgiler edinebilirsiniz.
+    </p>
+</head>
+<body>
+<h1 style="font-size: medium;font-style: italic;">İlgi Alanlarım</h1>
+<ol><strong>Sevdiğim Filmler</strong>
+    <ul>
+        <li><a href="https://www.imdb.com/title/tt5013056/" target="_blank">
+            Dunkrik
+            </a>
+        </li>
+        <li> <a href="https://www.imdb.com/title/tt13918446/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_harry%2520potter">
+            Harry Potter Series
+            </a>
+        </li>
+        <li><a href="https://www.imdb.com/title/tt0108052/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_schind">
+            Schindler List
+            </a>
+        </li>
+    </ul>
+</ol>
+<ol><strong>Sevdiğim Diziler</strong>
+    <ul>
+        <li>Rizzoli And Isles</li>
+        <li>Mehmet Sultan Of Conquests</li>
+        <li>Weel of Time</li>
+    </ul>
+</ol>
+<ol><strong>Sevdiğim Kitaplar</strong>
+    <ul>
+        <li> <a href="https://www.goodreads.com/book/show/6562917-mein-kampf?from_search=true&from_srp=true&qid=jp321H2Pgm&rank=1">
+            Adolf Hitler Kavgam
+            </a>
+        </li>
+        <li>Celal Şengör Senin Cahilliğin Benim Yaşamımı Etkiliyor</li>
+        <li>Şu Çılgın Türkler</li>
+    </ul>
+</ol>
+</body>
+
+<ol>
+    <li><strong>Sevdiğim Film</strong></li>
+</ol>
+<strong>Harry Potter</strong>
+<br>
+<img width="600" height="600" src="img/harry.jpg" alt="harrypotter film afişi">
